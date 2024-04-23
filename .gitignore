@@ -2,3 +2,4 @@
 !*/
 !.gitignore
 !*.vhd
+keyboard_controller.srcs/sim_1/new/filter_tb.vhd
